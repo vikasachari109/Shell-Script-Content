@@ -1,0 +1,11 @@
+1 - Introduction = (touch,permissions,cd,run files)
+2 - comments and varible with types(system & user)
+3 - Read user input in diff styles.
+4 - pass args to the script(nrml pass,array pass,count args)
+5 - append data
+6 - logical operators (AND,OR..etc)
+7 - arithmetic operators (+,-,*,/,%)
+8 - float operators, case statement
+9 - arrays (hands on)
+10 - loops (while, for, if, ifelse)
+11 - Read file content.

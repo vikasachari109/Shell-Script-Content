@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shellscript">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shellscript.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

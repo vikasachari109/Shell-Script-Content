@@ -1,0 +1,41 @@
+- cd desktop = change directory to desktop
+- touch xyz.txt = create file 
+- ls -al = know the (read,write,excute)
+- example = touch hello.sh 
+  ./hello.sh = to run the file 
+- chmod = to change mode like (read write excute)
+- example = chmod +x hello.sh (giving excute permission)
+- # = for the comments
+
+-> variables = are the containers that store some data init.
+             = in shell there 2 types of varibles
+	     = 1 - system type varible(mantained by unix)
+             = 2 - user defined varible(by user)
+
+Example of System variables:
+- echo $BASH = gives the bash or shell
+- echo $BASH_VERSION = gives the version
+- echo $HOME = gives the home 
+- echo $PWD = present working directory
+Example of User defined variables:
+- name=vikas = user varibale is declared and created
+- echo Myname is $name = make use the user defined variable.
+- 10val=10 =  #variable name should not start with number it will not be considered
+- echo value $10val = make use of 10val
+
+Read user input:
+- echo "Enter name: "
+- read name = its going to read the name 
+- echo "enterd name : $name" = we adding the user value to it.
+
+
+
+
+
+
+
+
+
+
+
+
