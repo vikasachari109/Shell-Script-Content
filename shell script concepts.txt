@@ -9,3 +9,10 @@
 9 - arrays (hands on)
 10 - loops (while, for, if, ifelse)
 11 - Read file content.
+12 - untill loop, for loop, selectLoop.sh
+13 - break and continue 
+14 - functions
+15 - localvariables
+16 - readOnly
+17 - signals and traps
+18 - debugging.
